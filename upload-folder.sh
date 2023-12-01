@@ -11,7 +11,8 @@ print_usage() {
   echo "  GNFD_CMD_FILEPATH    Path to the gnfd-cmd executable"
   echo ""
   echo "Options:"
-  echo "  -h, --help           Show this help message and exit"
+  echo "  -h, --help       
+  echo "Upload files from a folder to a bucket using gnfd-cmd."    Show this help message and exit"
   echo "  -v, --verbose        Enable verbose mode, echoing execution of each file and progress"
 }
 
